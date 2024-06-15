@@ -1,0 +1,36 @@
+{
+  "question": [
+    {
+      "question": "hello",
+      "answer": "hello there"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm amazing as always"
+    },
+    {
+      "question": "how is the weather",
+      "answer": "same as what u feel"
+    },
+    {
+      "question": "you are annoying",
+      "answer": "hahaha likewise"
+    },
+    {
+      "question": "skip",
+      "answer": "& \"C:/Users/Aanchal Jhunjhunwala/AppData/Local/Programs/Python/Python311/python.exe\" \"c:/Users/Aanchal Jhunjhunwala/OneDrive/Desktop/chat_bott/main.py\""
+    },
+    {
+      "question": "HI",
+      "answer": "HELLO"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "whats ur name",
+      "answer": "aanchal"
+    }
+  ]
+}
